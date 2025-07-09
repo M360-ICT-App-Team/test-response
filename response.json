@@ -1,0 +1,7 @@
+{
+  "success": false, 
+  "message": "Price has been updated. Please confirm to continue", 
+  "data": {
+    "new_fare": 6500.0
+  }
+}
